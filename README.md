@@ -2,7 +2,7 @@
 
 I am a Full-Stack Engineer !
 
-I am working with Python (Masonite and Django) and Vue.js and Tailwind CSS mainly.
+I am working with Python (Masonite and Django), Vue.js and Tailwind CSS mainly.
 
 Right now, I am contributing to [Masonite](https://docs.masoniteproject.com/) Python web framework, it looks promising :rocket: !!
 - [masonite](https://github.com/MasoniteFramework/masonite/)
