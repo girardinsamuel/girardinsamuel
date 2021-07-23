@@ -12,4 +12,5 @@ Right now, I am contributing to [Masonite](https://docs.masoniteproject.com/) Py
 
 (In Progress)
 - masonite-admin (An admin panel for Masonite 4 apps)
+- masonite-socialite (An admin panel for Masonite 4 apps)
 - others to come ... 😀
