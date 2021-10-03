@@ -13,6 +13,7 @@ Creator of :
 - [masonite-inertia](https://github.com/girardinsamuel/masonite-inertia/)
 - [masonite-js-routes](https://github.com/girardinsamuel/masonite-js-routes/)
 - [masonite-socialite](https://github.com/girardinsamuel/masonite-socialite/)
+- [cookiecutter-masonite-package](https://github.com/girardinsamuel/cookiecutter-masonite-package/)
 - [masonite-backups](https://github.com/girardinsamuel/masonite-backups/) (WIP)
 
 In Progress
