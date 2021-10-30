@@ -12,9 +12,11 @@ Creator of :
 - [climbing-terms.vercel.app](https://climbing-terms.vercel.app)
 - [masonite-inertia](https://github.com/girardinsamuel/masonite-inertia/)
 - [masonite-js-routes](https://github.com/girardinsamuel/masonite-js-routes/)
-- [masonite-socialite](https://github.com/girardinsamuel/masonite-socialite/)
+- [masonite-oauth2](https://github.com/girardinsamuel/masonite-oauth2/)
 - [cookiecutter-masonite-package](https://github.com/girardinsamuel/cookiecutter-masonite-package/)
 - [masonite-backups](https://github.com/girardinsamuel/masonite-backups/) (WIP)
+- [masonite-admin](https://github.com/girardinsamuel/masonite-admin/) (WIP)
+
 
 In Progress
 - masonite-admin (An admin panel for Masonite 4 projects)
