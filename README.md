@@ -15,7 +15,7 @@ Creator of:
 - [masonite-js-routes](https://github.com/girardinsamuel/masonite-js-routes/)
 - [masonite-oauth2](https://github.com/girardinsamuel/masonite-oauth2/)
 - [cookiecutter-masonite-package](https://github.com/girardinsamuel/cookiecutter-masonite-package/)
-- [https://packages.masoniteproject.com](https://packages.masoniteproject.com)
+- [packages.masoniteproject.com](https://packages.masoniteproject.com)
 - [climbing-terms.vercel.app](https://climbing-terms.vercel.app)
 
 
