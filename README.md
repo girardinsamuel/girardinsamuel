@@ -17,7 +17,7 @@ Creator of:
 - [cookiecutter-masonite-package](https://github.com/girardinsamuel/cookiecutter-masonite-package/)
 - [packages.masoniteproject.com](https://packages.masoniteproject.com)
 - [climbing-terms.vercel.app](https://climbing-terms.vercel.app)
-
+- [django-inertia](https://github.com/girardinsamuel/django-inertia/)
 
 Work In Progress:
 - [masonite-backups](https://github.com/girardinsamuel/masonite-backups/)
